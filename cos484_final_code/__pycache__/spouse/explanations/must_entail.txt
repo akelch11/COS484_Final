@@ -1,0 +1,5 @@
+someone is married to {e1}
+someone is married to {e2}
+{e1} is a person
+{e2} is a person
+{e1} and {e2} are different people

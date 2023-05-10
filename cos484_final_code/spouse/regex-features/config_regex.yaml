@@ -1,0 +1,8 @@
+interpreter:
+    type: 'regex'
+    ngrams: 3
+paths:
+    data_dir: '/u/scr/smurty/spouse_data_cr'
+    exp_dir: 'explanations'
+    save_dir: '/u/scr/smurty/spouse_data_cr/regex-features'
+data_reader: 'babble_reader'

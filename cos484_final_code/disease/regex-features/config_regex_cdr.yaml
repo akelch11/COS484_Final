@@ -1,0 +1,8 @@
+interpreter:
+    type: 'regex'
+    ngrams: 3
+paths:
+    data_dir: '/u/scr/smurty/chemical_disease_cr'
+    exp_dir: 'explanations'
+    save_dir: '/u/scr/smurty/chemical_disease_cr/regex-features'
+data_reader: 'babble_reader'

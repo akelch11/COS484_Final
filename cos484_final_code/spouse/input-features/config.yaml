@@ -1,0 +1,9 @@
+interpreter:
+    type: 'bert'
+    path: '/u/scr/smurty/bert_base_mnli/best_model' 
+    use_logits: False
+paths:
+    data_dir: '/u/scr/smurty/spouse_data_cr'
+    exp_dir: 'base-explanations'
+    save_dir: '/u/scr/smurty/spouse_data_cr/input-features'
+data_reader: 'babble_reader'

@@ -1,0 +1,9 @@
+interpreter:
+    type: bert
+    path: scibert/pytorch_model.bin
+    use_logits: False
+paths:
+    data_dir: disease
+    exp_dir: base-explanations
+    save_dir: disease/new_features/disease-bert-noexp-ameya
+data_reader: babble_reader

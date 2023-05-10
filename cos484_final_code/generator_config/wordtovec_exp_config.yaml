@@ -1,0 +1,9 @@
+interpreter:
+    type: wordtovec
+    path: 
+    use_logits: False
+paths:
+    data_dir: spouse
+    exp_dir: explanations
+    save_dir: spouse/new_features/wordtovec_exp
+data_reader: babble_reader

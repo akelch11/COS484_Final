@@ -1,0 +1,13 @@
+{e1} is the daughter of {e2}
+{e1} is the mother of {e2}
+{e1} and {e2} are the same person
+{e1} is the same person as {e2}
+{e1} is married to someone other than {e2}
+{e1} is the father of {e2}
+{e1} is the son of {e2}
+{e1} is marrying someone other than {e2}
+{e1} is the ex-wife of {e2}
+{e1} is a location
+{e2} is a location
+{e1} is an organization
+{e2} is an organization

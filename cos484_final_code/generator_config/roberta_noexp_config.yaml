@@ -1,0 +1,9 @@
+interpreter:
+    type: roberta
+    path:
+    use_logits: False
+paths:
+    data_dir: spouse
+    exp_dir: base-explanations
+    save_dir: spouse/new_features/roberta_noexp_features_adam
+data_reader: babble_reader

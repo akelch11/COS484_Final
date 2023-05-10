@@ -1,0 +1,5 @@
+{o1} and {o2} have a son
+{o1} and {o2} have a daughter
+{o1} and {o2} have kids together
+{o1} and {o2} are expecting a son
+{o1} and {o2} are expecting a daughter

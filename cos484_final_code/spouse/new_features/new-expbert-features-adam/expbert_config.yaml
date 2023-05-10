@@ -1,0 +1,9 @@
+interpreter:
+    type: bert
+    path: bert/pytorch_model.bin
+    use_logits: False
+paths:
+    data_dir: spouse
+    exp_dir: explanations
+    save_dir: spouse/new_features/new-expbert-features-adam
+data_reader: babble_reader

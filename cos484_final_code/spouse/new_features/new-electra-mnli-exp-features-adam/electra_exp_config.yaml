@@ -1,0 +1,9 @@
+interpreter:
+    type: electra
+    path: 
+    use_logits: False
+paths:
+    data_dir: spouse
+    exp_dir: explanations
+    save_dir: spouse/new_features/new-electra-mnli-exp-features-adam
+data_reader: babble_reader

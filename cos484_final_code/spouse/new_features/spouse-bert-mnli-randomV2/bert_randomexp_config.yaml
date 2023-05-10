@@ -1,0 +1,9 @@
+interpreter:
+    type: bert
+    path: bert/pytorch_model.bin
+    use_logits: False
+paths:
+    data_dir: spouse
+    exp_dir: random_explanations_v1
+    save_dir: spouse/new_features/spouse-bert-mnli-randomV2
+data_reader: babble_reader

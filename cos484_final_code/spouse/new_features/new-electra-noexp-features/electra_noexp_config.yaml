@@ -1,0 +1,9 @@
+interpreter:
+    type: electra
+    path: 
+    use_logits: False
+paths:
+    data_dir: spouse
+    exp_dir: base-explanations
+    save_dir: new_features/new-electra-noexp-features
+data_reader: babble_reader

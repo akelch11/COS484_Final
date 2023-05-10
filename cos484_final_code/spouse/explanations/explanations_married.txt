@@ -1,0 +1,10 @@
+{o1} and {o2} have a marriage license
+{o1}’s husband is {o2}
+{o1}’s wife is {o2}
+{o1} and {o2} are married
+{o1} and {o2} are going to tie the knot
+{o1} married {o2}
+{o1} and {o2} are a married couple
+{o1} and {o2} had a wedding
+{o1} and {o2} married in the past
+{o1} tied the knot with {o2}
